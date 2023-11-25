@@ -5,10 +5,7 @@ Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Si
 ## Quem Sou Eu
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiamFer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=My%20Status" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LiamFer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
