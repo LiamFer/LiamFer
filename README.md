@@ -17,7 +17,7 @@ Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Si
 
 ## Foco Atual
 
-🚀 **Viciado em Python:** Python conquistou meu coração, e atualmente estou aprofundando meu conhecimento nele, pretendo aprender mais sobre Pandas e futuramente estudar MatplotLib. 
+🚀 **Viciado em Python:** Atualmente estou aprofundando meu conhecimento em Python, pretendo aprender mais sobre Pandas e futuramente estudar MatplotLib. 
 <h3 align="left">Social</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/willfernandes/" target="_blank">
