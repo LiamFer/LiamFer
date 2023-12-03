@@ -31,7 +31,7 @@ Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Si
 ###
 
 <div align="left">
-  <img height="550" src="https://cdna.artstation.com/p/assets/images/images/036/344/304/original/shin-diego-66.gif?1617396623&dl=1"  />
+  <img height="450" src="https://cdna.artstation.com/p/assets/images/images/036/344/304/original/shin-diego-66.gif?1617396623&dl=1"  />
 </div>
 
 ###
