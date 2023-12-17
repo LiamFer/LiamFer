@@ -1,6 +1,6 @@
 <h1 align="left">Opa 👋😎!</h1>
 
-Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Sistemas que está se aventurando como estagiário na Saint-Gobain.
+Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Sistemas.
 
 ## Quem Sou Eu
 ###
