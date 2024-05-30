@@ -31,7 +31,7 @@ Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Si
 ###
 
 <div align="left">
-  <img height="550" src="https://bolprod.com/wp-content/uploads/2022/04/CITY_1_Rocket_Animation.gif"  />
+  <img height="450" src="https://bolprod.com/wp-content/uploads/2022/04/CITY_1_Rocket_Animation.gif"  />
 </div>
 
 ###
