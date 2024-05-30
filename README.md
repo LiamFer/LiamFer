@@ -1,23 +1,19 @@
-<h1 align="left">Opa 👋😎!</h1>
+<h1 align="left">Olá 👋😎!</h1>
 
-Fala! 👋 Meu nome é William, um estudante de Análise e Desenvolvimento de Sistemas.
+Fala! 👋 Meu nome é William, um entusiasta da tecnologia.
 
-## Quem Sou Eu
-###
+<h2>Quem Sou Eu</h2>
 
+<p>
+Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas habilidades e acompanhar as mais recentes inovações na área da tecnologia. Atualmente, trabalho com Soluções Digitais e Indústria 4.0 na Saint-Gobain, onde contribuo ativamente para projetos significativos nas áreas de Análise de Dados e Soluções Digitais. No trabalho, desenvolvo principalmente no Software SCADA Ignition porém também utilizo tecnologias como SQL, Python, Jython, Pandas, Streamlit, Power Apps e Power BI, e estou constantemente explorando novas ferramentas para resolver problemas e otimizar processos.
+</p>
 
+<h2>Foco Atual</h2>
 
-###
+- 🚀 <strong>Estudos em Java e SQL:</strong> Atualmente, estou focado em aprofundar meus conhecimentos em Java e SQL, visando expandir minhas competências em programação e banco de dados.
 
-- 🎓 **Educação:** Estou cursando Análise e Desenvolvimento de Sistemas, buscando constantemente conhecimento para aprimorar minhas habilidades e me manter atualizado com as últimas tendências da indústria de tecnologia.
+- 🐍 <strong>Interesse em Python:</strong> Embora meu foco atual seja Java e SQL, continuo aprimorando meu conhecimento em Python, com interesse particular em Visão Computacional.
 
-- 💼 **Trabalho:** Como estagiário na Saint-Gobain, estou ativamente envolvido em projetos do mundo real, aplicando minhas habilidades para contribuir com o sucesso da equipe. A natureza dinâmica do meu papel me mantém engajado e sempre aprendendo.
-
-- 💻 **Tecnologias:** Estou estudando Python, e no trabalho utilizo Ignition e um pouco de SQL. Essas ferramentas não são apenas parte do meu trabalho diário; são os blocos de construção das soluções que crio para resolver problemas e otimizar processos.
-
-## Foco Atual
-
-🚀 **Viciado em Python:** Atualmente estou aprofundando meu conhecimento em Python, pretendo aprender mais sobre Pandas e futuramente estudar MatplotLib. 
 <h3 align="left">Social</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/willfernandes/" target="_blank">
