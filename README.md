@@ -1,14 +1,14 @@
-<h1 align="left">Olá 👋😎!</h1>
+<h1 align="left">Fala ai! 🍃</h1>
 
-Fala! 👋 Meu nome é William, um entusiasta da tecnologia.
+Meu nome é William e sou um entusiasta da tecnologia.
 
-<h2>Quem Sou Eu</h2>
+<h2>Quem Sou Eu ?</h2>
 
 <p>
-Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas habilidades e acompanhar as mais recentes inovações na área da tecnologia. Atualmente, trabalho com Soluções Digitais e Indústria 4.0 na Saint-Gobain, onde contribuo ativamente para projetos significativos nas áreas de Análise de Dados e Soluções Digitais. No trabalho, desenvolvo principalmente no Software SCADA Ignition porém também utilizo tecnologias como SQL, Python, Jython, Pandas, Streamlit, Power Apps e Power BI, e estou constantemente explorando novas ferramentas para resolver problemas e otimizar processos.
+Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas habilidades e acompanhar as mais recentes inovações na área da tecnologia. Atualmente, trabalho com Soluções Digitais e Indústria 4.0 na Saint-Gobain, onde contribuo ativamente para projetos significativos nas áreas de Análise de Dados e Soluções Digitais. No trabalho, desenvolvo principalmente no Software <b>SCADA Ignition</b> porém também utilizo tecnologias como <b>SQL</b>, <b>Python</b>, <b>Jython</b>, <b>Pandas</b>, <b>Streamlit</b>, <b>Power Apps</b> e <b>Power BI</b>, e estou constantemente explorando novas ferramentas para resolver problemas e otimizar processos.
 </p>
 
-<h2>Foco Atual</h2>
+<h2>Foco Atual 🧠</h2>
 
 - 🚀 <strong>Estudos em Java e SQL:</strong> Atualmente, estou focado em aprofundar meus conhecimentos em Java e SQL, visando expandir minhas competências em programação e banco de dados.
 
@@ -27,7 +27,7 @@ Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas
 ###
 
 <div align="left">
-  <img height="450" src="https://bolprod.com/wp-content/uploads/2022/04/CITY_1_Rocket_Animation.gif"  />
+  <img height="450" src="https://raw.githubusercontent.com/aa-deet-eeya/aa-deet-eeya/master/src/ascii-rabit.gif"  />
 </div>
 
 ###
