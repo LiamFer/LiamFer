@@ -39,8 +39,8 @@ Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"  />
-  <img width="12" />
+<!--   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"  /> -->
+<!--   <img width="12" /> -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="SQL logo"  />
 </div>
 
