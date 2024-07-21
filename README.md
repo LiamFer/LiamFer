@@ -12,7 +12,7 @@ Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas
 
 - 🚀 <strong>Estudos em Java e SQL:</strong> Atualmente, estou focado em aprofundar meus conhecimentos em Java e SQL, visando expandir minhas competências em programação e banco de dados.
 
-- 🐍 <strong>Interesse em Python:</strong> Embora meu foco atual seja Java e SQL, continuo aprimorando meu conhecimento em Python, com interesse particular em Visão Computacional.
+- 🐍 <strong>Interesse em Python:</strong> Embora meu foco atual seja Java e SQL, continuo aprimorando meu conhecimento em Python.
 
 <h3 align="left">Social</h3>
 <div align="left">
