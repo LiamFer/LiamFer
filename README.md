@@ -27,7 +27,7 @@ Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas
 ###
 
 <div align="left">
-  <img height="350" src="https://raw.githubusercontent.com/aa-deet-eeya/aa-deet-eeya/master/src/ascii-rabit.gif"  />
+  <img height="380" src="https://i.imgur.com/WcyAb1F.gif"  />
 </div>
 
 ###
