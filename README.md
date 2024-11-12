@@ -14,31 +14,7 @@ Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar min
 
 - 📚 <strong>Projeto Atual:</strong> Estou trabalhando em um projeto chamado [Bookstore](https://github.com/LiamFer/Bookstore), que é uma aplicação de gerenciamento de livros desenvolvida com ASP.NET Core e SQL Server.
 
-<h3 align="left">Social</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/willfernandes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/wiilfern1910" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"  />
-  </a>
-  <a href="https://leetcode.com/u/liamfer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img height="380" src="https://i.imgur.com/WcyAb1F.gif"  />
-</div>
-
-###
-
-<h3 align="left">Programming Languages</h3>
-
-###
-
+<h3 align="left">Tecnologias</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo"  />
   <img width="12" />
@@ -54,4 +30,29 @@ Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar min
   <img width="12" />
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="C# logo"  />
   <img width="12" />
+</div>
+
+###
+
+<div align="left">
+  <img height="380" src="https://i.imgur.com/WcyAb1F.gif"  />
+</div>
+
+###
+
+
+<h3 align="left">Social</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/willfernandes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/wiilfern1910" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="HackerRank logo"  />
+  </a>
+  <a href="https://leetcode.com/u/liamfer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode logo"  />
+  </a>
 </div>
