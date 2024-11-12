@@ -1,18 +1,16 @@
-<h1 align="left">Fala ai! 🍃</h1>
+<h1 align="left">Fala aí! 🍃</h1>
 
 Meu nome é William e sou um entusiasta da tecnologia.
 
-<h2>Quem Sou Eu ?</h2>
+<h2>Quem Sou Eu?</h2>
 
 <p>
-Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas habilidades e acompanhar as mais recentes inovações na área da tecnologia. Atualmente, trabalho com Soluções Digitais e Indústria 4.0 na Saint-Gobain, onde contribuo ativamente para projetos significativos nas áreas de Análise de Dados e Soluções Digitais. No trabalho, desenvolvo principalmente no Software <b>SCADA Ignition</b> porém também utilizo tecnologias como <b>SQL</b>, <b>Python</b>, <b>Jython</b>, <b>Pandas</b>, <b>Streamlit</b>, <b>Power Apps</b> e <b>Power BI</b>, e estou constantemente explorando novas ferramentas para resolver problemas e otimizar processos.
+Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e acompanhar as inovações no setor de tecnologia. Tenho experiência em desenvolvimento de soluções digitais, Desenvolvimento de Aplicações e Banco de Dados. Minhas principais ferramentas incluem <b>SQL</b> e <b>Python</b> e estou constantemente explorando novas tecnologias para resolver problemas e otimizar processos.
 </p>
 
 <h2>Foco Atual 🧠</h2>
 
-- 🚀 <strong>Estudos em Java e SQL:</strong> Atualmente, estou focado em aprofundar meus conhecimentos em Java e SQL, visando expandir minhas competências em programação e banco de dados.
-
-- 🐍 <strong>Interesse em Python:</strong> Embora meu foco atual seja Java e SQL, continuo aprimorando meu conhecimento em Python.
+- 🚀 <strong>Estudos em C# e SQL:</strong> Atualmente, estou focado em aprofundar meus conhecimentos em C# e SQL para expandir minhas habilidades em desenvolvimento de aplicações e bancos de dados relacionais.
 
 <h3 align="left">Social</h3>
 <div align="left">
@@ -39,9 +37,13 @@ Sempre fui autodidata, buscando constantemente conhecimento para melhorar minhas
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo"  />
   <img width="12" />
-<!--   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java logo"  /> -->
-<!--   <img width="12" /> -->
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" alt="C# logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="JavaScript logo"  />
 </div>
-
-###
