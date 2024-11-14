@@ -35,7 +35,7 @@ Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar min
 ###
 
 <div align="left">
-  <img height="380" src="https://i.imgur.com/WcyAb1F.gif"  />
+  <img height="480" src="https://64.media.tumblr.com/3ebef054c877d03c507aa8c40149908b/6ea0a0e867ebf441-0d/s1280x1920/515b1f92b9830672a913d4f32c3f233b08bf3643.gif"  />
 </div>
 
 ###
