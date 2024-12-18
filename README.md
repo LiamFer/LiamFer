@@ -12,7 +12,7 @@ Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar min
 
 - 🚀 <strong>Estudos em C# e SQL:</strong> Estou focado em aprofundar meus conhecimentos em C# e SQL para expandir minhas habilidades em desenvolvimento de aplicações e bancos de dados relacionais.
 
-- 📚 <strong>Projeto Atual:</strong> Estou trabalhando em um projeto chamado [Bookstore](https://github.com/LiamFer/Bookstore), que é uma aplicação de gerenciamento de livros desenvolvida com ASP.NET Core e SQL Server.
+- 📚 **Projeto Atual:** Estou trabalhando em um projeto privado para gerar vídeos automaticamente para redes sociais. O projeto utiliza Python e Node.js para automação e processamento de mídia.  
 
 <h3 align="left">Tecnologias</h3>
 <div align="left">
