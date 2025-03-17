@@ -8,12 +8,6 @@ Meu nome é William e sou um entusiasta da tecnologia.
 Sou autodidata e estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e acompanhar as inovações no setor de tecnologia. Tenho experiência em desenvolvimento de soluções digitais, Desenvolvimento de Aplicações e Banco de Dados. Minhas principais ferramentas incluem <b>SQL</b> e <b>Python</b> e estou constantemente explorando novas tecnologias para resolver problemas e otimizar processos.
 </p>
 
-<h2>No Momento 🧠</h2>
-
-- 🚀 <strong>Estudos em C# e SQL:</strong> Estou focado em aprofundar meus conhecimentos em C# e SQL para expandir minhas habilidades em desenvolvimento de aplicações e bancos de dados relacionais.
-
-- 📚 **Projeto Atual:** Estou trabalhando em um projeto privado para gerar vídeos automaticamente para redes sociais. O projeto utiliza Python e Node.js para automação e processamento de mídia.  
-
 <h3 align="left">Tecnologias</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python logo"  />
