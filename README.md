@@ -20,10 +20,9 @@ Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluç�
 ### 📊 GitHub Stats
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamFer&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamFer&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamFer&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamFer&layout=compact&theme=default" />
 </div>
-
 
 ---
 
@@ -33,7 +32,11 @@ Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluç�
 - LinkedIn: [linkedin.com/in/willfernandes](https://linkedin.com/in/willfernandes)
 
 ---
-
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/LiamFer?theme=light&ext=activity" />
+</div>
 <div align="center">
   Feito com 💻 e ☕ por William
 </div>
+
+
