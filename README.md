@@ -26,10 +26,11 @@ Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluç�
 
 ---
 
-### 📫 Como falar comigo?
+### 📫 Meus Contatos
 
 - Email: `wiilfern1910@outlook.com`
 - LinkedIn: [linkedin.com/in/willfernandes](https://linkedin.com/in/willfernandes)
+- LeetCode: [leetcode.com/LiamFer](https://leetcode.com/LiamFer) 
 
 ---
 <div align="center">
