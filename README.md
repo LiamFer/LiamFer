@@ -1,6 +1,6 @@
 <h1 align="left">Fala aí! 🍃</h1>
 
-Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluções criativas e aprender coisas novas sempre que posso. Trabalho com tecnologias modernas como **JavaScript**, **TypeScript**, **React**, **Express**, **Python**, e **MySQL**.
+Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluções criativas e aprender coisas novas sempre que posso. Trabalho com tecnologias modernas como **Java**, **JavaScript**, **TypeScript**, **React**, **Express**, **Python**, e **MySQL**.
 
 ---
 
