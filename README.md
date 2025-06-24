@@ -1,21 +1,31 @@
-<h1 align="left">Fala aí! 🍃</h1>
+# 👨🏻‍💻 William Fernandes
 
-Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluções criativas e aprender coisas novas sempre que posso. Trabalho com tecnologias modernas como **Java**, **JavaScript**, **TypeScript**, **React**, **Express**, **Python**, e **MySQL**.
+**`Desenvolvedor Backend`**
 
----
+Me chamo William Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e comecei minha carreira em 2023 como estagiário em Desenvolvimento de Software na área industrial. Desde então, atuo como desenvolvedor, com experiência em tecnologias como **Java**, **Python**, **MySQL**, **React**, **Node.Js** além de ferramentas como Postman e Insomnia para testes de APIs.
 
-### 🧠 Tecnologias que uso
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+Utilizei o inglês em apresentações técnicas e reuniões globais, aprimorando minha comunicação profissional. Sou apaixonado por lógica, programação e resolução de problemas, com interesse especial por algoritmos e estruturas de dados, que pratico regularmente no LeetCode.
 
 ---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" title="Spring" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" alt="Python" title="Python" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" title="TypeScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" title="React" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+<img align="left" alt="Node.js" title="Node.js" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Postman" title="Postman" width="50px" style="padding-right: 10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
+<img align="left" alt="Insomnia" title="Insomnia" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg"/>
+<img align="left" alt="Git" title="Git" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+
+
+<br/>
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -30,7 +40,7 @@ Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluç�
 
 - Email: `wiilfern1910@outlook.com`
 - LinkedIn: [linkedin.com/in/willfernandes](https://linkedin.com/in/willfernandes)
-- LeetCode: [leetcode.com/LiamFer](https://leetcode.com/LiamFer) 
+- LeetCode: [leetcode.com/LiamFer](https://leetcode.com/LiamFer)
 
 ---
 <div align="center">
@@ -39,5 +49,3 @@ Meu nome é William e sou um entusiasta da tecnologia. Curto desenvolver soluç�
 <div align="center">
   Feito com 💻 e ☕ por William
 </div>
-
-
