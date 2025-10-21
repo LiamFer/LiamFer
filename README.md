@@ -1,6 +1,6 @@
 # 👨🏻‍💻 William Fernandes
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Fullstack`**
 
 Me chamo William Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e comecei minha carreira em 2023 como estagiário em Desenvolvimento de Software na área industrial. Desde então, atuo como desenvolvedor, com experiência em tecnologias como **Java**, **Python**, **MySQL**, **React**, **Node.Js** além de ferramentas como Postman e Insomnia para testes de APIs.
 
