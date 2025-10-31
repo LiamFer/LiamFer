@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo William Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e comecei minha carreira em 2023 como estagiário em Desenvolvimento de Software na área industrial. Desde então, atuo como desenvolvedor, com experiência em tecnologias como **Java**, **Python**, **MySQL**, **React**, **Node.Js** além de ferramentas como Postman e Insomnia para testes de APIs.
+Me chamo William Fernandes, sou formado em Análise e Desenvolvimento de Sistemas e comecei minha carreira em 2023 como estagiário em Desenvolvimento de Software na área industrial. Desde então, atuo como desenvolvedor, com experiência em tecnologias como **Java**, **Python**, **MySQL**, **React** além de ferramentas como Postman e Insomnia para testes de APIs.
 
 Utilizei o inglês em apresentações técnicas e reuniões globais, aprimorando minha comunicação profissional. Sou apaixonado por lógica, programação e resolução de problemas, com interesse especial por algoritmos e estruturas de dados, que pratico regularmente no LeetCode.
 
