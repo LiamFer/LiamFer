@@ -18,13 +18,6 @@ Utilizei o inglês em apresentações técnicas e reuniões globais, aprimorando
 <br/>
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiamFer&show_icons=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamFer&layout=compact&theme=default" />
-</div>
-
 ---
 
 ### 📫 Meus Contatos
